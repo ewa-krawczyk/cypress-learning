@@ -1,0 +1,11 @@
+{
+    "email": "test@test.com",
+    "password": "test@test.com",
+    "firstName": "John",
+    "lastName": "Tester",
+    "country": "Iceland",
+    "address": "Testowa 1",
+    "postcode": "00-000",
+    "town": "Test",
+    "phone": "12345678"
+}
